@@ -1,0 +1,32 @@
+.flex {
+  display: flex;
+}
+.f_auto {
+  flex: 1;
+}
+.f_center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.a_center {
+  align-items: center;
+}
+.j_center {
+  justify-content: center;
+}
+.m10 {
+  margin: 10px;
+}
+.mgt10 {
+  margin-top: 10px;
+}
+.mgl10 {
+  margin-left: 10px;
+}
+.mgr10 {
+  margin-right: 10px;
+}
+.mgb10 {
+  margin-bottom: 10px;
+}
