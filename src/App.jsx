@@ -6,7 +6,6 @@ import React, { Component } from 'react'
 import RefMeth from "./01-base/06-ref"
 export default class App extends Component {
     render() {
-        console.log('master')
         return (
             <div>
             {/*<Header/>*/}
